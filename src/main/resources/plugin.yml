@@ -1,0 +1,5 @@
+name: He4rtLab
+version: '${project.version}'
+main: br.com.he4rtlabs.He4rtLab
+api-version: 1.19
+author: "Matthieu Christian"
